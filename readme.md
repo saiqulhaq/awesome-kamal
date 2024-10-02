@@ -1,4 +1,4 @@
-# Awesome Kamal
+# Awesome Kamal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome resources, tools, and projects related to Kamal, the deployment tool by Basecamp.
 
@@ -20,41 +20,32 @@ A curated list of awesome resources, tools, and projects related to Kamal, the d
 
 ## Tutorials and Guides
 
-- [Getting Started with Kamal](link-to-guide)
-- [Deploying a Rails Application with Kamal](link-to-guide)
-- [Using Kamal with AWS](link-to-guide)
+- [Getting Started with Kamal](https://kamal-deploy.org/docs/getting-started)
+- [Deploying a Rails Application with Kamal](https://kamal-deploy.org/docs/rails-example)
+- [Using Kamal with AWS](https://kamal-deploy.org/docs/aws)
 
 ## Articles and Blog Posts
 
 - [Introducing Kamal](https://world.hey.com/dhh/introducing-kamal-9330a267)
 - [Kamal 1.0 Release Announcement](https://world.hey.com/dhh/kamal-1-0-5304ff9e)
-- [Comparing Kamal to Other Deployment Tools](link-to-article)
 
 ## Videos
 
 - [Kamal Demo by DHH](https://www.youtube.com/watch?v=yWSpjKErnco)
-- [Deploying with Kamal Tutorial](link-to-video)
 
 ## Tools and Integrations
 
-- [Kamal GitHub Action](link-to-action)
-- [Kamal Docker Image](link-to-docker-image)
+- [Kamal GitHub Action](https://github.com/marketplace/actions/deploy-with-kamal)
 
 ## Example Projects
 
-- [Sample Rails App Deployed with Kamal](link-to-project)
-- [Node.js Application Using Kamal](link-to-project)
+- [Sample Rails App Deployed with Kamal](https://github.com/basecamp/kamal-rails-demo)
 
 ## Community
 
-- [Kamal Discord Server](link-to-discord)
-- [Kamal Twitter Account](link-to-twitter)
-- [Kamal Stack Overflow Tag](link-to-stackoverflow)
+- [Kamal Discord Server](https://discord.gg/YgHVT7GCXS)
+- [Kamal Twitter Account](https://twitter.com/kamal_deploy)
 
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-This awesome list is under the [MIT License](LICENSE).
