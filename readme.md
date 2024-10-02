@@ -36,6 +36,7 @@ A curated list of awesome resources, tools, and projects related to Kamal, the d
 ## Tools and Integrations
 
 - [Kamal GitHub Action](https://github.com/marketplace/actions/deploy-with-kamal)
+- [Kamal Skiff](https://github.com/basecamp/kamal-skiff) - Deploy static sites using nginx + SSI with Kamal.
 
 ## Example Projects
 
