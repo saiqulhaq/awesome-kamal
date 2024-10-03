@@ -46,6 +46,7 @@ A curated list of awesome resources, tools, and projects related to Kamal, the d
 
 - [Kamal Discord Server](https://discord.gg/YgHVT7GCXS)
 - [Kamal Twitter Account](https://twitter.com/kamal_deploy)
+- [Kamal GitHub Discussions](https://github.com/basecamp/kamal/discussions) - Official forum for Kamal community discussions and support.
 
 ## Contributing
 
